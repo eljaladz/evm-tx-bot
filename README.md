@@ -165,26 +165,28 @@ npm start -- sepolia
 ⚠️ **Important:** Keep your credentials safe!  
 Never share `.env` or `config.json` files with anyone. Treat these files like passwords.
 
----
 
-## 🤝 **Contributing**
+## 🤝 Contributing
 
-Need access to the source code? Feel free to drop me a DM!
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
----
+If you have a suggestion that would make this project better, please fork the repository and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Don't forget to give the project a star! ⭐ Thanks again!
+
 
 ## ⚠️ **Disclaimer**
 
 This bot is provided **"as is"**, without any warranties.  
 You're fully responsible for any actions taken using this tool. Understand the risks before proceeding.
 
----
+
 
 ## 📜 **License**
 
 This project is licensed under the [MIT License](https://github.com/eljaladz/evm-tx-bot/blob/main/LICENSE).
 
----
+
 
 ## 💖 **Support & Donations**
 
@@ -203,7 +205,7 @@ UQDoLQNF-nt9CFOHBs9mQqxH9YJKrZ6mFPbAeHH8Jo9xIGCb
 BBZjp11sJNvekXZEBhhYDro9gsyyhEKXXcfEEub5ubje
 ```
 
----
+
 
 ## 🔥 **Join Our Community**
 
