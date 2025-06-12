@@ -158,8 +158,9 @@ export class Dashboard {
     const ampm = hours >= 12 ? "PM" : "AM";
     hours = hours % 12;
     hours = hours ? hours : 12;
+    const formattedHours = hours.toString().padStart(2, "0");
     const minutes = now.getMinutes().toString().padStart(2, "0");
-    return `${month}, ${day} - ${hours}:${minutes} ${ampm}`;
+    return `${month}, ${day} - ${formattedHours}:${minutes} ${ampm}`;
   }
 
   truncateAddress(address) {
