@@ -7,7 +7,7 @@ export const networks = {
       symbol: "ETH",
       decimals: 18,
     },
-    blockExplorerUrl: "http://eth-sepolia.blockscout.com/",
+    blockExplorerUrl: "http://eth-sepolia.blockscout.com",
   },
   tbnb: {
     rpcUrl: "https://bsc-testnet-rpc.publicnode.com",
@@ -17,7 +17,7 @@ export const networks = {
       symbol: "tBNB",
       decimals: 18,
     },
-    blockExplorerUrl: "https://testnet.bsctrace.com/",
+    blockExplorerUrl: "https://testnet.bsctrace.com",
   },
   // Add other EVM network here
 };
